@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🧑‍💻I'm a full-stack software engineer with 4+ years of experience.<br>🛠Designed and implemented scalable systems using both monolithic and microservice architectures to solve complex challenges.<br>❤️‍🔥Enthusiastic about distributed systems, backend development, Artificial Intelligence, and solving complex problems through innovative approaches.<br>🔭I previously worked at TCS, where I was honored with the ‘Digital Cadre’ recognition.<br>🌱I am currently learning complex distributed system concepts, AWS, computer vision, and GenAI.<br><br>
+🧑‍💻I'm a full-stack software engineer with 4+ years of experience.<br>🛠Designed and implemented scalable systems using both monolithic and microservice architectures to solve complex challenges.<br>❤️‍🔥Enthusiastic about distributed systems, backend development, AI, and solving complex problems with innovative approaches<br>🔭I previously worked at TCS, where I was honored with the ‘Digital Cadre’ recognition.<br>🌱I am currently learning complex distributed system concepts, AWS, computer vision, and GenAI.<br><br>
 
 
 ## 🌐 Socials:
